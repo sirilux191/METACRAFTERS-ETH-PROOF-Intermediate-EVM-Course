@@ -4,8 +4,6 @@ This Solidity smart contract, called GlobalFunctions, provides global functions 
 
 ## Description
 
----
-
 The GlobalFunctions contract is designed to provide useful global functions and capabilities for Ethereum smart contracts. The key features of this contract include:
 
 - Ownership management: The contract owner has special privileges and can change the ownership to another address.
@@ -23,16 +21,12 @@ The GlobalFunctions contract is designed to provide useful global functions and 
 
 ## Getting Started
 
----
-
 To use the GlobalFunctions contract, you need to follow these steps:
 
 1. Deploy the contract to an Ethereum network by compiling and deploying the GlobalFunctions.sol file.
 2. Interact with the deployed contract using a tool like Remix, Truffle, or web3.js.
 
-### Executing program
-
----
+## Executing program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
@@ -101,13 +95,9 @@ Ensure that you have the necessary permissions and provide the required paramete
 
 ## Authors
 
----
-
 Metacrafter Sirilux
 [@AadityaChandankar](https://twitter.com/aadityachandan1)
 
 ## License
-
----
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
