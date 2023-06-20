@@ -44,7 +44,7 @@ ERC20Proxy is a contract that acts as a proxy for deploying multiple instances o
 
 To use the MyERC20Token and ERC20 Proxy contract, you need to follow these steps:
 
-1. Deploy the contract to an Ethereum network by compiling and deploying the SimpleStorage.sol file.
+1. Deploy the contract to an Ethereum network by compiling and deploying the ERC20Proxy.sol file.
 2. Interact with the deployed contract using a tool like Remix, Truffle, or web3.js.
 
 ## Executing program
